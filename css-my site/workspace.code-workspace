@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../web dev"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../codingclub"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css-my site"
+	}
+}
